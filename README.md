@@ -1,7 +1,7 @@
 FuzzyART_NeuralNetwork
 ======================
 
-Implement Fuzzy ART in python -- an assignment for neural network course
+Implement Fuzzy ART in python.
 
 The code implements Fuzzy ART (Adaptive Resonance Theory) neural network. 
 
